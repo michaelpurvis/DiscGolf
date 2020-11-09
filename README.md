@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/michaelpurvis/DiscGolf/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of DiscGolf is to let people know about approved discs.
